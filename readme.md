@@ -1,7 +1,7 @@
 # A y2mate downloader
 This is a simple fetch command-line tool made in one day, this wasn't what I had in mind but things just didn't work today. Still wanted to share my progress today with this simple repo.
 
-# Installation
+# Installation and usage
 
 ## Prerequisites
 You'll need [https://nodejs.org/en/](NodeJS) to use this program. If you don't have it just go install it and come back.
