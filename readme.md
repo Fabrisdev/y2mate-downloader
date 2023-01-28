@@ -6,7 +6,7 @@ This is a simple fetch command-line tool made in one day, this wasn't what I had
 ## Prerequisites
 You'll need [https://nodejs.org/en/](NodeJS) to use this program. If you don't have it just go install it and come back.
 
-# Usage
+## Usage
 1) It's very easy to install and use, just copy the repo:
 `git clone https://github.com/Fabrisdev/y2mate-downloader`
 
