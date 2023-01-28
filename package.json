@@ -1,0 +1,9 @@
+{
+	"dependencies": {
+		"@types/args": "^5.0.0",
+		"@types/node": "^18.11.18",
+		"args": "^5.0.3",
+		"colors": "^1.4.0"
+	},
+	"type": "module"
+}
